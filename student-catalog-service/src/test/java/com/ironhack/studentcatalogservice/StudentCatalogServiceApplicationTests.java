@@ -1,10 +1,10 @@
-package com.ironhack.gradesdataservice;
+package com.ironhack.studentcatalogservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GradesDataServiceApplicationTests {
+class StudentCatalogServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
